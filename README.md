@@ -1,2 +1,2 @@
 # python-tcp-calculator
-A simple client-server arithmetic calculator in python
+A simple TCP client-server arithmetic calculator written in python
